@@ -11,7 +11,7 @@ org 0x7C00
 
 
                 mov ax,0x13     ; graphical mode 320x200 pixles 256 colors
-                int 0x10	       ; set video mode
+            int 0x10	       ; set video mode
                 
     X: dw 0x00
     Y: dw 0x00
