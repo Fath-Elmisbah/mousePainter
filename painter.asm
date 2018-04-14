@@ -116,8 +116,6 @@ penX: dw 213
 currentShapeX: dw 193
 
 
-
-
 xdot: dw 0
 ydot: dw 0
 
