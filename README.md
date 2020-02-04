@@ -1,5 +1,5 @@
 # mousePainter
-like the desktop app (paint) written by assembly  
+like the desktop app (paint) written by assembly language
 PS2 Mouse Commands
 After the PS2 Aux port has been enabled, you can send commands to the mouse. It is recommended to disable automatic packet streaming mode while "reprogramming" the mouse. You can do this by either sending command 0xF5 to the mouse, or disabling the "master mouse clock" by setting bit 5 of the Compaq Status byte (see below).
 
